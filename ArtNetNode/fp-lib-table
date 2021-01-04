@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name plan44-kicad-master)(type KiCad)(uri "C:/Users/PeterEhses/Google Drive/IMD/master_kurse/christopher/PCB_Files/resources/plan44-kicad-master/plan44.pretty")(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri "C:/Users/PeterEhses/Google Drive/IMD/master_kurse/christopher/PCB_Files/resources/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name ArtNetNode)(type KiCad)(uri "C:/Users/PeterEhses/Google Drive/IMD/master_kurse/christopher/PCB_Files/resources/project_libs/ArtNetNode.pretty")(options "")(descr ""))
+)

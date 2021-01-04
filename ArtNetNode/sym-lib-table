@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name plan44)(type Legacy)(uri "C:/Users/PeterEhses/Google Drive/IMD/master_kurse/christopher/PCB_Files/resources/plan44-kicad-master/plan44.lib")(options "")(descr ""))
+  (lib (name project_lib)(type Legacy)(uri "C:/Users/PeterEhses/Google Drive/IMD/master_kurse/christopher/PCB_Files/resources/project_libs/project_lib.lib")(options "")(descr ""))
+  (lib (name dk_Terminal-Blocks-Wire-to-Board)(type Legacy)(uri "C:/Users/PeterEhses/Google Drive/IMD/master_kurse/christopher/PCB_Files/resources/digikey-kicad-library-master/digikey-symbols/dk_Terminal-Blocks-Wire-to-Board.lib")(options "")(descr ""))
+  (lib (name dk_Barrel-Power-Connectors)(type Legacy)(uri "C:/Users/PeterEhses/Google Drive/IMD/master_kurse/christopher/PCB_Files/resources/digikey-kicad-library-master/digikey-symbols/dk_Barrel-Power-Connectors.lib")(options "")(descr ""))
+)
